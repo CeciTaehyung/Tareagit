@@ -38,6 +38,7 @@ public class EjemploEmcapsulamiento {
         System.out.println("Peso: " + obj.getPeso());
         System.out.println("Genero: " + obj.getGenero());
         System.out.println("Hola bienvenidos");
+        System.out.println("Como estas? " + obj.getNombre());
 
     }
 }
